@@ -1,5 +1,7 @@
 Hi there! 👋 I'm Aanand Ingle
+
 🚀 Aspiring Data Analyst | Python Enthusiast | Business Intelligence Learner
+
 Turning raw data into actionable insights that drive smarter decisions 📈
 
 🎯 About Me
